@@ -18,13 +18,13 @@ test_log_folder = base_path + "//data"
 save_fig_path = base_path + "//plots"
 
 # The fabric you want to check out
-fabric_name = "59_Cotton"
-# fabric_name = "60_Linen"
-# fabric_name = "61_Wool"
-# fabric_name = "62_pet"
-# fabric_name = "63_Silk"
+fabric_name = "Cotton"
+# fabric_name = "Linen"
+# fabric_name = "Wool"
+# fabric_name = "PET"
+# fabric_name = "Silk"
 
-fabric_type = fabric_name.split("_")[-1]
+fabric_type = fabric_name
 
 # Select the test index
 test_idx = "001"
@@ -90,7 +90,7 @@ y_up_lim = 0.07 if test_type == "twist" else 1.0
 
 IS_LIMIT_Y: bool = False
 
-fabric_type = fabric_name.split("_")[1]
+fabric_type = fabric_name
 fig_name = f"{fabric_type}_{PLOT_TYPE}_{test_direction}_{test_type}.jpg"
 fig_save_path = os.path.join(save_fig_path, fig_name)
 

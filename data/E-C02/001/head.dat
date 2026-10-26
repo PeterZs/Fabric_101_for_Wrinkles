@@ -1,0 +1,39 @@
+Manufacturer           [REDACTED]
+Material ID            1027_EC02_001
+ProductName            EC02
+test ID                [REDACTED]
+Weight(gsm)            576.45
+Thickness(mm)          2.3
+Comment                Cotton
+band_Type              1
+Test Date              [REDACTED]
+Test Time              [REDACTED]
+Operator               [REDACTED]
+MachineID              [REDACTED]
+Action:                Twist
+Action                 Compression
+Action                 Friction
+fabrictype              Woven
+1
+1
+0
+1
+0
+1
+5
+50.0
+15.0
+5.0
+1.0
+0.5
+compression.dat
+tension.txt
+[REDACTED_LOCAL_PATH]
+0
+0
+15.0
+1
+20.0
+0
+
+0

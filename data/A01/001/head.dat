@@ -1,0 +1,39 @@
+Manufacturer           [REDACTED]
+Material ID            148_A01_001
+ProductName            A01
+test ID                [REDACTED]
+Weight(gsm)            239.5
+Thickness(mm)          0.5
+Comment                Acrylic Wool-like
+band_Type              1
+Test Date              [REDACTED]
+Test Time              [REDACTED]
+Operator               [REDACTED]
+MachineID              [REDACTED]
+Action:                Twist
+Action                 Compression
+Action                 Friction
+fabrictype              woven
+1
+1
+0
+1
+0
+1
+5
+50.0
+15.0
+5.0
+1.0
+0.5
+compression.dat
+tension.txt
+[REDACTED_LOCAL_PATH]
+0
+0
+15.0
+1
+20.0
+0
+
+0

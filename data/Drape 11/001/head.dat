@@ -1,0 +1,39 @@
+Manufacturer           [REDACTED]
+Material ID            197_Drape 11_001
+ProductName            Drape 11
+test ID                [REDACTED]
+Weight(gsm)            162.34
+Thickness(mm)          0.9
+Comment                Brushed Cotton Check
+band_Type              1
+Test Date              [REDACTED]
+Test Time              [REDACTED]
+Operator               [REDACTED]
+MachineID              [REDACTED]
+Action:                Twist
+Action                 Compression
+Action                 Friction
+fabrictype              woven
+1
+1
+0
+1
+0
+1
+5
+50.0
+15.0
+5.0
+1.0
+0.5
+compression.dat
+tension.txt
+[REDACTED_LOCAL_PATH]
+0
+0
+15.0
+1
+20.0
+0
+
+0
